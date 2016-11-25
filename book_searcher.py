@@ -1,8 +1,3 @@
-# Course: IT1 1120
-# Assignment #2
-# Carveth, John
-# 8645004
-################################################################################
 import sys
 
 with open('NYT-bestsellers.txt') as file:
